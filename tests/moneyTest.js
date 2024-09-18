@@ -17,7 +17,7 @@ console.log('works with 0')
 if(formatCurrency(0)=='0.00'){ss
     console.log('passed');
 } else {
-    console.log('failed')
+    console.log('failed')sssssssssss
 }
 
 console.log('rounds upto nearest cent')
